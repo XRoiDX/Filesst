@@ -35,7 +35,7 @@ SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "droplink.co")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "ba9397cf73004a7d5236f014af404ed712ca1544")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
-TUT_VID = os.environ.get("TUT_VID","gojfsi/2")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/howtoopen88/3")
 
 
 #force sub channel id, if you want enable force sub
